@@ -1,0 +1,13 @@
+name: facial-enhancement-dev
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip=23.0
+  - pip:
+    - pytest==7.4.0
+    - black==23.7.0
+    - isort==5.12.0
+    - flake8==6.1.0
+    - pre-commit==3.4.0
