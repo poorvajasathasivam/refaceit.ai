@@ -14,7 +14,7 @@ A complete MLOps project demonstrating the deployment of a facial enhancement AI
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/facial-enhancement.git
+   git clone https://github.com/poorvajasathasivam/refaceit.ai.git
    cd facial-enhancement
    ```
 
