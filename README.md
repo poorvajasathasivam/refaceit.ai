@@ -2,7 +2,8 @@
 
 A complete MLOps project demonstrating the deployment of a facial enhancement AI system using GFPGAN, containerized with Docker and ready for cloud deployment.
 
-![Application Screenshot](https://github.com/yourusername/facial-enhancement/raw/main/docs/screenshots/app_screenshot.png)
+![Application Screenshot](images/page1.png)
+![Application Screenshot](images/page2.png)
 
 ## Project Overview
 
@@ -46,7 +47,7 @@ This project implements a facial enhancement application that demonstrates MLOps
 1. Clone the repository:
    ```bash
    git clone https://github.com/poorvajasathasivam/refaceit.ai.git
-   cd facial-enhancement
+   cd refaceit.ai
 
 2. Download model weights:
 ```bash
